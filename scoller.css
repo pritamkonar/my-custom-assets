@@ -1,0 +1,17 @@
+.colorchange{ 
+    color: red;
+}
+
+@media only screen and (max-width: 600px) {
+    
+    .colorchange{ 
+        color: blue;
+    }
+
+
+    .pgwidth{
+        color: red;
+        width: 10px;
+    }
+
+  }
